@@ -83,7 +83,7 @@ if (!isset($_SESSION["usuario"]) || !isset($_SESSION["senha"])) {
             <thead>
               <tr>
                 <th>Titulo</th>
-                <th>Usuario</th>
+                <th>Usuário</th>
                 <th>Senha</th>
                 <th>URL</th>
               </tr>
