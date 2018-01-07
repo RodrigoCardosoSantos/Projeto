@@ -1,0 +1,15 @@
+
+    *{
+    padding : 0px;
+    margin: 0px;
+    }
+    body{
+        
+        background-color: #efefef;
+        padding: 0px;
+        margin: 0px;
+
+    }
+     menu li a:hover:not(.active) {
+    background-color: red;
+}
